@@ -6,17 +6,14 @@ public class Vainycos {
         if(name.contains("v")){
             return name;
         }
-        return "this is demo branch";
+        return "this is master branch";
     }
 
     public void master(){
         System.out.println("this is master");
     }
 
-    public String demoBranch(String name){
-        if(name.contains("contains")){
-            return "demo branch";
-        }
-        return "master";
+    public void wtf(){
+
     }
 }
