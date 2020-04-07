@@ -15,4 +15,8 @@ public class Vainycos {
         }
         return "demo";
     }
+
+    public void wtf(){
+        
+    }
 }
