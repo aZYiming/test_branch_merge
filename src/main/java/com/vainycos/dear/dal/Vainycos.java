@@ -9,6 +9,10 @@ public class Vainycos {
         return "this is demo branch";
     }
 
+    public void master(){
+        System.out.println("this is master");
+    }
+
     public String demoBranch(String name){
         if(name.contains("contains")){
             return "demo branch";
