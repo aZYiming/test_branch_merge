@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DearApplication {
 
     public static void main(String[] args) {
+        System.out.println("this is demo branch");
         SpringApplication.run(DearApplication.class, args);
     }
 
