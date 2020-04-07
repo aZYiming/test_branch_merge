@@ -9,4 +9,12 @@ public class Vainycos {
             return "whose your daddy";
         }
     }
+
+    public String demoBranch(String name){
+        if(name.contains("contains")){
+            return "branch";
+        }else {
+            return "";
+        }
+    }
 }
