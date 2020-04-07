@@ -17,6 +17,6 @@ public class Vainycos {
     }
 
     public void wtf(){
-        
+        System.out.println("wtf-demo");
     }
 }
