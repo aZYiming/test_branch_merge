@@ -17,6 +17,6 @@ public class Vainycos {
         if(name.contains("contains")){
             return "demo branch";
         }
-        return "";
+        return "demo";
     }
 }
